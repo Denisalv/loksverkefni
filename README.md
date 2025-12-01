@@ -7,4 +7,5 @@
 2. Búa til notendur samkvæmt verkefnilysingu
 3. Búa til Móppuna GÖGN í henni  verða möppunar sameigni, forritune og markaðsál
 4. í/etc/skel/ eiga möppunar vinna og leikir að vera muna að gera þessarv möppur en notendur eru b+unir til.
-5. 
+5.  eirben a[ collabriotor
+6.  Skíla slóð ini Innuna
